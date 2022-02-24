@@ -21,9 +21,9 @@ Example Playbook
 ```
 # requirements.yml
 ---
-- src: git@github.com:maxship/filebeat-role.git
+- src: git@github.com:iv-art074/filebeat_role.git
   scm: git
-  version: "2.0.0"
+  version: "1.0.0"
   name: filebeat-role
 
 # site.yml
